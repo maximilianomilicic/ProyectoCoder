@@ -9,3 +9,4 @@ def curso(self):
     documentosDeTexto = f'-----> Curso: {curso.nombre} comision: {curso.comision}'
     return HttpResponse(documentosDeTexto)
 
+# aqui agregamos algo
